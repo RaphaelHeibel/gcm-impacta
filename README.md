@@ -1,1 +1,3 @@
-# gcm-impacta
+# Nome: Raphael
+# Faculdade: Impacta
+# Função: Estudante
